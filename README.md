@@ -1,6 +1,16 @@
 # Hi, I'm Yan
-
 DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI
+
+---
+
+## Table of Contents
+- [About Me](#about-me)
+- [Languages & Tools](#languages--tools)
+- [Tech Stack](#tech-stack)
+- [Home Lab](#home-lab)
+- [GitHub Stats](#github-stats)
+- [Contribution Snake](#contribution-snake)
+- [Connect With Me](#connect-with-me)
 
 ---
 
@@ -110,6 +120,18 @@ Running on **Proxmox**, focused on continuous learning:
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=react&hide_border=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=react&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=JancikK&theme=react&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JancikK/JancikK/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JancikK/JancikK/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://github.com/JancikK/JancikK/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
