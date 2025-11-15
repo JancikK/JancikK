@@ -1,73 +1,70 @@
-# Hi there 👋 I'm Yan
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://i.imgur.com/6x8j4zA.gif" width="450"/>
+</p>
 
-🚀 **DevOps Engineer** specializing in cloud infrastructure, automation, and AI-powered workflows.  
-I build scalable, secure, and fully automated environments across Azure, AWS, and on-premise systems.
-
----
-
-## 🔧 Core Focus Areas
-
-- **Cloud Infrastructure:** Azure, AWS  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **Containers:** Docker, Kubernetes, Helm  
-- **CI/CD Pipelines:** GitHub Actions, GitLab CI  
-- **Monitoring & Observability:** Prometheus, Alertmanager, Grafana  
-- **Automation:** Bash, Python, YAML  
-- **AI Integration:** Azure AI, AI Foundry, workflow automation  
-- **Security:** SBOMs, Cosign, GPG signing, supply-chain hardening  
+<h1 align="center">Hi, I'm Yan 👋</h1>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI</h3>
 
 ---
 
-## 🚀 Recent Private Project (Summary)
+### 👨‍💻 About Me
 
-**Microsoft365 Operations Hub – Full DevOps Implementation**
-
-I led DevOps for a private Microsoft365 Operations Hub project, where I:
-
-- Designed automated release workflows (Main CI → GitHub Releases)  
-- Managed **Azure / AKS infrastructure using Terraform**  
-- Built a GitHub Actions pipeline that provisions:
-  - Traefik  
-  - Prometheus / Grafana  
-  - Application workloads  
-- Implemented **supply-chain security** with:
-  - Cosign signing  
-  - CycloneDX SBOMs  
-  - GPG-signed commits  
-- Automated **Docker Hub pull-secrets** for stable spot-node rotation  
-- Wrote full documentation (wiki + runbooks)  
-- Created **self-service AKS Terraform flows** with PAT gating to keep infra drift-free and auditable  
-
-> 🔒 The repo is private, but this summary shows the scope of the work I do.
+- 🔭 Working as a **DevOps Engineer**, building scalable and automated cloud environments  
+- ⚙️ Experienced with **Azure, AWS, Terraform, Kubernetes, GitHub Actions, Ansible**  
+- 🤖 Exploring **AI infrastructure, model pipelines, and automation workflows**  
+- 🧪 Running a **Proxmox home lab** where I test K8s, CI/CD, monitoring, and IaC  
+- 🌱 Improving skills in cloud security, IaC patterns, and automation frameworks  
 
 ---
 
-## 🏠 Home Lab (Proxmox)
+## 🛠️ Languages & Tools
 
-I maintain a **Proxmox homelab** running:
-
-- Local Kubernetes clusters  
-- Proxmox VMs for testing IaC, automation, and CI/CD  
-- Internal monitoring stack (Prometheus + Grafana)  
-- API automations and sandbox environments  
-- Experimentation with AI infrastructure in self-hosted setups  
-
----
-
-## 🌱 Currently Learning & Building
-
-- AI infrastructure on Azure (AI Foundry, AI pipelines)  
-- Advanced Kubernetes patterns  
-- Zero-trust & cloud security  
-- Scalable IaC modules  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📫 Reach Me
+## 🧪 Home Lab
 
-- **LinkedIn:** https://www.linkedin.com/in/yan-kollehaiev-2969a6234/  
+Using **Proxmox**, I maintain a personal infrastructure for learning and experimentation:
+
+- Kubernetes clusters  
+- Infrastructure as Code testing (Terraform, Ansible)  
+- Monitoring stack (Prometheus + Grafana)  
+- CI/CD pipelines  
+- Automation & API tooling  
+- AI/ML experimentation environments  
 
 ---
 
-⭐ Thanks for visiting my GitHub!  
-I’m always learning, building, and improving.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JancikK&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/yan-kollehaiev-2969a6234/
+
+---
+
+⭐ *Thanks for visiting! Always learning, automating, and improving.*
