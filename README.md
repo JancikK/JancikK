@@ -54,12 +54,12 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>Languages & Frameworks</strong></summary>
 
-- React 18 + Vite + Tailwind  
-- Node.js 20 / Express 5  
-- TypeScript / JavaScript  
-- Terraform (HCL)  
-- YAML (GitHub Actions, Kubernetes, Helm)  
-- Markdown + Mermaid  
+- ⚛️ React 18 + Vite + Tailwind  
+- 🟩 Node.js 20 / Express 5  
+- 📘 TypeScript / JavaScript  
+- 🧩 Terraform (HCL)  
+- 📄 YAML (GitHub Actions, Kubernetes, Helm)  
+- 📝 Markdown + Mermaid  
 
 </details>
 
@@ -68,10 +68,10 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>DevOps & Automation</strong></summary>
 
-- GitHub Actions (Dev CI, Main CI, deployment, Terraform workflows)  
-- Docker, Docker Compose, Docker Hub  
-- Helm (Traefik, kube-prometheus-stack)  
-- Kustomize & kubectl for AKS workloads  
+- 🔁 GitHub Actions (Dev CI, Main CI, deployment, Terraform workflows)  
+- 🐳 Docker, Docker Compose, Docker Hub  
+- 🎛️ Helm (Traefik, kube-prometheus-stack)  
+- 🧰 Kustomize & kubectl for AKS workloads  
 
 </details>
 
@@ -80,10 +80,10 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>Azure Cloud Infrastructure</strong></summary>
 
-- Azure CLI, Azure Kubernetes Service  
-- Azure Container Apps  
-- Azure DNS, Azure Key Vault, Log Analytics  
-- Terraform backend stored in Azure Storage  
+- ☁️ Azure CLI, Azure Kubernetes Service  
+- 📦 Azure Container Apps  
+- 🌐 Azure DNS, Azure Key Vault, Log Analytics  
+- 🗄️ Terraform backend stored in Azure Storage  
 
 </details>
 
@@ -92,10 +92,10 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>Security & Observability</strong></summary>
 
-- Cosign, CycloneDX SBOMs, Trivy/Gryphe  
-- Prometheus, Grafana, Loki, Promtail  
-- MSAL / Microsoft Graph for automation  
-- GPG-signed commits, GitHub PAT automation  
+- 🔐 Cosign, CycloneDX SBOMs, Trivy/Gryphe  
+- 📊 Prometheus, Grafana, Loki, Promtail  
+- 🔑 MSAL / Microsoft Graph for automation  
+- 🧾 GPG-signed commits, GitHub PAT automation  
 
 </details>
 
