@@ -1,49 +1,46 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/6x8j4zA.gif" width="450"/>
-</p>
+<img align="center" src="https://i.imgur.com/5J1QZzG.gif" width="100%" />
 
-<h1 align="center">Hi, I'm Yan 👋</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI</h3>
+# Hi, I'm Yan 👋
+
+### **DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI**
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Working as a **DevOps Engineer**, building scalable and automated cloud environments  
-- ⚙️ Experienced with **Azure, AWS, Terraform, Kubernetes, GitHub Actions, Ansible**  
-- 🤖 Exploring **AI infrastructure, model pipelines, and automation workflows**  
-- 🧪 Running a **Proxmox home lab** where I test K8s, CI/CD, monitoring, and IaC  
-- 🌱 Improving skills in cloud security, IaC patterns, and automation frameworks  
+- 🛠️ Working as a **DevOps Engineer**, building scalable and automated cloud environments  
+- ☁️ Experienced with **Azure, AWS, Terraform, Kubernetes, GitHub Actions, Ansible**  
+- 🤖 Exploring **AI infrastructure**, model serving, and automation workflows  
+- 🧪 Running a **Proxmox home lab** for K8s, CI/CD, monitoring, and IaC experiments  
+- 🔐 Interested in cloud security, IaC best practices, automation frameworks, and API-driven development  
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
 ---
 
 ## 🧪 Home Lab
 
-Using **Proxmox**, I maintain a personal infrastructure for learning and experimentation:
+Using **Proxmox**, I maintain a personal infrastructure for continuous learning:
 
 - Kubernetes clusters  
-- Infrastructure as Code testing (Terraform, Ansible)  
+- Infrastructure as Code (Terraform, Ansible)  
 - Monitoring stack (Prometheus + Grafana)  
 - CI/CD pipelines  
-- Automation & API tooling  
+- Automation & API workflows  
 - AI/ML experimentation environments  
 
 ---
@@ -51,20 +48,16 @@ Using **Proxmox**, I maintain a personal infrastructure for learning and experim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JancikK&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=tokyonight" height="160"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/yan-kollehaiev-2969a6234/
 
 ---
 
-⭐ *Thanks for visiting! Always learning, automating, and improving.*
+⭐ *Thanks for visiting! Always learning, automating, and improving.*  
