@@ -1,16 +1,22 @@
 # Hi, I'm Yan
 
-### DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI
+DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI
 
 ---
 
 ## About Me
 
-- Working as a **DevOps Engineer**, building scalable and automated cloud environments  
-- Experienced with **Azure, AWS, Terraform, Kubernetes, GitHub Actions, Ansible**  
-- Exploring **AI infrastructure**, model serving, and automation workflows  
-- Running a **Proxmox home lab** for Kubernetes, CI/CD, monitoring, and IaC experiments  
-- Interested in cloud security, IaC best practices, automation frameworks, and API-driven development  
+I work as a DevOps Engineer focusing on automated, scalable cloud environments and AI-driven infrastructure.  
+My background spans Azure, AWS, Terraform, Kubernetes, CI/CD platforms, and modern DevOps security practices.
+
+Key interests and experience:
+
+- Building automated and secure cloud systems  
+- Azure & AWS infrastructure  
+- Kubernetes platforms and GitOps/IaC best practices  
+- Model-serving and AI infrastructure  
+- Proxmox home lab for K8s, CI/CD, observability, and IaC experimentation  
+- Cloud security, automation frameworks, and API-driven development  
 
 ---
 
@@ -29,9 +35,15 @@
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages & Frameworks
+Below sections expand/collapse for clarity.
+
+---
+
+<details>
+  <summary><strong>Languages & Frameworks</strong></summary>
+
 - React 18 + Vite + Tailwind  
 - Node.js 20 / Express 5  
 - TypeScript / JavaScript  
@@ -39,35 +51,55 @@
 - YAML (GitHub Actions, Kubernetes, Helm)  
 - Markdown + Mermaid  
 
-### DevOps & Automation
+</details>
+
+---
+
+<details>
+  <summary><strong>DevOps & Automation</strong></summary>
+
 - GitHub Actions (Dev CI, Main CI, deployment, Terraform workflows)  
 - Docker, Docker Compose, Docker Hub  
 - Helm (Traefik, kube-prometheus-stack)  
 - Kustomize & kubectl for AKS workloads  
 
-### Azure Cloud Infrastructure
+</details>
+
+---
+
+<details>
+  <summary><strong>Azure Cloud Infrastructure</strong></summary>
+
 - Azure CLI, Azure Kubernetes Service  
 - Azure Container Apps  
 - Azure DNS, Azure Key Vault, Log Analytics  
 - Terraform backend stored in Azure Storage  
 
-### Security & Observability
+</details>
+
+---
+
+<details>
+  <summary><strong>Security & Observability</strong></summary>
+
 - Cosign, CycloneDX SBOMs, Trivy/Gryphe  
 - Prometheus, Grafana, Loki, Promtail  
-- MSAL / Microsoft Graph (auth + API automation)  
+- MSAL / Microsoft Graph for automation  
 - GPG-signed commits, GitHub PAT automation  
+
+</details>
 
 ---
 
 ## Home Lab
 
-Personal infrastructure running on **Proxmox**, focused on continuous learning:
+Running on **Proxmox**, focused on continuous learning:
 
 - Kubernetes clusters  
-- IaC with Terraform and Ansible  
-- Monitoring stack (Prometheus + Grafana)  
+- Terraform & Ansible IaC  
+- Prometheus + Grafana monitoring stack  
 - CI/CD experimentation  
-- API automation tooling  
+- API automation tools  
 - AI/ML experimentation environments  
 
 ---
@@ -84,9 +116,8 @@ Personal infrastructure running on **Proxmox**, focused on continuous learning:
 
 ## Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/yan-kollehaiev-2969a6234/
+LinkedIn: https://www.linkedin.com/in/yan-kollehaiev-2969a6234/
 
 ---
 
 Thanks for visiting.
-``
