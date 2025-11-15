@@ -1,5 +1,3 @@
-<img align="center" src="https://i.imgur.com/5J1QZzG.gif" width="100%" />
-
 # Hi, I'm Yan 👋
 
 ### **DevOps Engineer | Cloud Infrastructure | Automation | IaC | AI**
