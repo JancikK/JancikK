@@ -30,6 +30,67 @@
 
 ---
 
+## 🧰 Tech Stack
+
+### 🖥️ Languages & Frameworks
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+</p>
+
+- **React 18 + Vite + Tailwind** (SPA frontend)  
+- **Node.js 20 / Express 5** (API backend)  
+- **TypeScript / JavaScript**  
+- **Terraform (HCL)** for IaC  
+- **YAML** (GitHub Actions, Kubernetes, Helm)  
+- **Markdown + Mermaid** (documentation & diagrams)  
+
+---
+
+### 🚀 DevOps & Automation
+
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+
+#### CI/CD & Workflow Automation  
+- **GitHub Actions** (Dev CI, Main CI, deploy, Terraform workflows)  
+- **Docker, Docker Compose, Docker Hub**  
+- **Helm** (Traefik, kube-prometheus-stack)  
+- **Kustomize & kubectl** for AKS workloads  
+
+#### Azure Cloud Infrastructure  
+- **Azure CLI**, **AKS**, **Azure Container Apps**  
+- **Azure DNS**, **Azure Key Vault**, **Log Analytics**  
+- **Terraform backend via Azure Storage**  
+
+#### Security & Supply Chain  
+- **Cosign** (image signing)  
+- **CycloneDX SBOMs**  
+- **Trivy / Grype** scanning  
+- **GPG signed commits**  
+- **GitHub PAT automation**  
+
+#### Observability  
+- **Prometheus**, **Grafana**, **Loki**, **Promtail**  
+
+#### Identity / APIs  
+- **MSAL**  
+- **Microsoft Graph API**  
+
+---
+
 ## 🧪 Home Lab
 
 Using **Proxmox**, I maintain a personal infrastructure for continuous learning:
