@@ -102,9 +102,9 @@ Running on **Proxmox**, focused on continuous learning:
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=react&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=JancikK&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app" />
+  <img height="180" src="https://github-readme-stats.vercel.app" />
+  <img height="180" src="https://streak-stats.demolab.com" />
 </p>
 
 ---
