@@ -104,12 +104,12 @@ Running on **Proxmox**, focused on continuous learning:
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-taupe-nu-45.vercel.app/api?username=JancikK&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     alt="GitHub stats for JancikK"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-taupe-nu-45.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=github_dark&hide_border=true"
     alt="Top languages for JancikK"
   />
   <img
