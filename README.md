@@ -28,6 +28,8 @@ Key interests and experience:
 - Proxmox home lab for K8s, CI/CD, observability, and IaC experimentation  
 - Cloud security, automation frameworks, and API-driven development  
 
+Current focus: ☸️ Talos Kubernetes operations, 🔁 GitHub Actions platform workflows, ☁️ Azure / Microsoft Graph automation, and 📈 observability hardening.
+
 ---
 
 # Tech Stack
@@ -115,7 +117,7 @@ Current projects:
   />
   <img
     height="180"
-    src="https://github-readme-stats-taupe-nu-45.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-taupe-nu-45.vercel.app/api/top-langs/?username=JancikK&layout=compact&langs_count=8&card_width=320&exclude_repo=github-readme-stats&theme=github_dark&hide_border=true"
     alt="Top languages for JancikK"
   />
   <img
