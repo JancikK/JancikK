@@ -102,9 +102,21 @@ Running on **Proxmox**, focused on continuous learning:
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app" />
-  <img height="180" src="https://github-readme-stats.vercel.app" />
-  <img height="180" src="https://streak-stats.demolab.com" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=JancikK&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub stats for JancikK"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancikK&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top languages for JancikK"
+  />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=JancikK&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak for JancikK"
+  />
 </p>
 
 ---
@@ -113,9 +125,9 @@ Running on **Proxmox**, focused on continuous learning:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JancikK/JancikK/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JancikK/JancikK/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://github.com/JancikK/JancikK/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JancikK/JancikK/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JancikK/JancikK/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JancikK/JancikK/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
