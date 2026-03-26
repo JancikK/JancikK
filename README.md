@@ -88,14 +88,19 @@ Below sections expand/collapse for clarity.
 
 ## Home Lab
 
-Running on **Proxmox**, focused on continuous learning:
+Running on **Proxmox**, focused on building and testing real platform workflows:
 
-- Kubernetes clusters  
-- Terraform & Ansible IaC  
-- Prometheus + Grafana monitoring stack  
-- CI/CD experimentation  
-- API automation tools  
-- AI/ML experimentation environments  
+- ☸️ Kubernetes clusters for workload, ingress, and deployment experiments  
+- 🏗️ Terraform & Ansible for repeatable infrastructure setup  
+- 📊 Prometheus, Grafana, and Loki for monitoring and log visibility  
+- 🔁 CI/CD pipelines for validation and delivery workflows  
+- 🤖 API automation tooling and AI/ML sandbox environments  
+
+Current projects:
+
+- 🧩 **HomeLAB-IAC**: Terraform, Kubernetes, Helm, and GitHub Actions for lab automation  
+- 🛠️ **Microsoft365 Automation**: PowerShell, Microsoft Graph, and Azure-based admin workflows  
+- 🛡️ **Security & Observability Stack**: Prometheus, Grafana, Loki, and Trivy experiments for infra visibility and hardening  
 
 ---
 
