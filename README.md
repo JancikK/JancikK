@@ -39,12 +39,12 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>Languages & Frameworks</strong></summary>
 
-- ⚛️ React 18 + Vite + Tailwind  
-- 🟩 Node.js 20 / Express 5  
-- 📘 TypeScript / JavaScript  
-- 🧩 Terraform (HCL)  
-- 📄 YAML (GitHub Actions, Kubernetes, Helm)  
-- 📝 Markdown + Mermaid  
+- React 18 + Vite + Tailwind  
+- Node.js 20 / Express 5  
+- TypeScript / JavaScript  
+- Terraform (HCL)  
+- YAML for GitHub Actions, Kubernetes, and Helm  
+- Markdown + Mermaid  
 
 </details>
 
@@ -53,10 +53,10 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>DevOps & Automation</strong></summary>
 
-- 🔁 GitHub Actions (Dev CI, Main CI, deployment, Terraform workflows)  
-- 🐳 Docker, Docker Compose, Docker Hub  
-- 🎛️ Helm (Traefik, kube-prometheus-stack)  
-- 🧰 Kustomize & kubectl for AKS workloads  
+- GitHub Actions for Proxmox, Talos bootstrap, platform apply, upgrade, rollback, and backup workflows  
+- Docker, Docker Compose, and Docker Hub  
+- Argo CD GitOps delivery  
+- Helm, Kustomize, and kubectl for platform and AKS workloads  
 
 </details>
 
@@ -65,10 +65,10 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>Azure Cloud Infrastructure</strong></summary>
 
-- ☁️ Azure CLI, Azure Kubernetes Service  
-- 📦 Azure Container Apps  
-- 🌐 Azure DNS, Azure Key Vault, Log Analytics  
-- 🗄️ Terraform backend stored in Azure Storage  
+- Azure CLI and Azure Kubernetes Service  
+- Azure Container Apps  
+- Azure DNS, Azure Key Vault, Log Analytics, and Cost Management budgets  
+- Terraform backend stored in Azure Storage  
 
 </details>
 
@@ -77,10 +77,11 @@ Below sections expand/collapse for clarity.
 <details>
   <summary><strong>Security & Observability</strong></summary>
 
-- 🔐 Cosign, CycloneDX SBOMs, Trivy/Gryphe  
-- 📊 Prometheus, Grafana, Loki, Promtail  
-- 🔑 MSAL / Microsoft Graph for automation  
-- 🧾 GPG-signed commits, GitHub PAT automation  
+- Vault and External Secrets Operator  
+- Kyverno policy guardrails  
+- Prometheus, Grafana, Alertmanager, Loki, Tempo, and Alloy  
+- Cosign, CycloneDX SBOMs, Trivy, and Grype  
+- MSAL / Microsoft Graph automation  
 
 </details>
 
@@ -88,19 +89,19 @@ Below sections expand/collapse for clarity.
 
 ## Home Lab
 
-Running on **Proxmox**, focused on building and testing real platform workflows:
+Running on **Proxmox** with **Talos Kubernetes**, focused on production-style platform workflows:
 
-- ☸️ Kubernetes clusters for workload, ingress, and deployment experiments  
-- 🏗️ Terraform & Ansible for repeatable infrastructure setup  
-- 📊 Prometheus, Grafana, and Loki for monitoring and log visibility  
-- 🔁 CI/CD pipelines for validation and delivery workflows  
-- 🤖 API automation tooling and AI/ML sandbox environments  
+- Cluster lifecycle automated with Terraform and staged GitHub Actions workflows  
+- Argo CD, Istio, MetalLB, and cert-manager for platform delivery and traffic management  
+- Vault, External Secrets, and Kyverno for secrets and policy guardrails  
+- Prometheus, Grafana, Alertmanager, Loki, Tempo, and Alloy for observability  
+- Backup, rollback, disruption testing, and restore validation built into operations  
 
 Current projects:
 
-- 🧩 **HomeLAB-IAC**: Terraform, Kubernetes, Helm, and GitHub Actions for lab automation  
-- 🛠️ **Microsoft365 Automation**: PowerShell, Microsoft Graph, and Azure-based admin workflows  
-- 🛡️ **Security & Observability Stack**: Prometheus, Grafana, Loki, and Trivy experiments for infra visibility and hardening  
+- **HomeLAB-IAC**: Proxmox, Talos, Argo CD, Istio, Vault, and Kubernetes platform automation  
+- **Microsoft365 Automation**: React, Express, Microsoft Graph, Azure, and CI/CD-driven admin workflows  
+- **Security & Observability Stack**: policy enforcement, signed builds, alerts, dashboards, logs, and recovery runbooks  
 
 ---
 
